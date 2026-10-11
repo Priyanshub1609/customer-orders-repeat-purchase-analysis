@@ -1,0 +1,601 @@
+customer_id,customer_name,city,signup_date,acquisition_channel
+C0001,Aarav Das,Hyderabad,2024-04-24,Social Media
+C0002,Priya Mehta,Ahmedabad,2024-05-22,Organic Search
+C0003,Saanvi Verma,Delhi,2025-08-27,Organic Search
+C0004,Ayaan Bose,Lucknow,2024-08-11,Organic Search
+C0005,Reyansh Jain,Chennai,2025-07-28,Social Media
+C0006,Riya Das,Delhi,2025-04-04,Social Media
+C0007,Ananya Das,Bengaluru,2025-03-08,Social Media
+C0008,Vihaan Gupta,Chennai,2024-12-10,Organic Search
+C0009,Pooja Khan,Lucknow,2025-01-02,Referral
+C0010,Priya Mishra,Ahmedabad,2024-02-14,Organic Search
+C0011,Aditya Jain,Pune,2025-01-22,Direct
+C0012,Riya Reddy,Mumbai,2025-01-05,Organic Search
+C0013,Rohan Joshi,Mumbai,2024-08-21,Social Media
+C0014,Aadhya Das,Kolkata,2024-04-13,Referral
+C0015,Diya Khan,Hyderabad,2024-06-15,Referral
+C0016,Kiara Patel,Ahmedabad,2024-03-14,Social Media
+C0017,Myra Nair,Pune,2024-06-16,Direct
+C0018,Neha Malhotra,Delhi,2024-08-12,Social Media
+C0019,Sneha Malhotra,Chennai,2024-02-02,Referral
+C0020,Reyansh Saxena,Jaipur,2024-03-08,Social Media
+C0021,Aadhya Mishra,Bengaluru,2025-05-26,Referral
+C0022,Ayaan Jain,Ahmedabad,2024-05-22,Referral
+C0023,Saanvi Saxena,Chennai,2025-08-21,Referral
+C0024,Arjun Bose,Kolkata,2024-08-12,Organic Search
+C0025,Pooja Mehta,Bengaluru,2024-02-18,Social Media
+C0026,Kiara Gupta,Chennai,2025-03-08,Paid Ads
+C0027,Myra Bose,Pune,2025-09-02,Direct
+C0028,Neha Mehta,Ahmedabad,2024-01-12,Referral
+C0029,Vihaan Joshi,Chennai,2024-12-14,Social Media
+C0030,Aarav Das,Ahmedabad,2025-04-09,Social Media
+C0031,Kavya Mehta,Pune,2025-06-03,Direct
+C0032,Reyansh Singh,Jaipur,2025-09-15,Social Media
+C0033,Rohan Bose,Delhi,2025-07-06,Direct
+C0034,Ira Sharma,Mumbai,2024-11-27,Referral
+C0035,Ayaan Verma,Hyderabad,2024-11-10,Direct
+C0036,Aditya Chopra,Mumbai,2024-03-21,Direct
+C0037,Arjun Chopra,Ahmedabad,2024-05-08,Social Media
+C0038,Aanya Rao,Chennai,2024-09-28,Social Media
+C0039,Rohan Reddy,Pune,2025-07-06,Paid Ads
+C0040,Myra Bose,Kolkata,2025-01-17,Organic Search
+C0041,Ayaan Gupta,Jaipur,2024-09-10,Organic Search
+C0042,Pari Iyer,Lucknow,2025-08-25,Social Media
+C0043,Aditya Verma,Hyderabad,2024-01-08,Organic Search
+C0044,Pooja Malhotra,Mumbai,2024-02-02,Direct
+C0045,Krishna Chopra,Hyderabad,2024-08-31,Direct
+C0046,Priya Saxena,Lucknow,2024-05-15,Paid Ads
+C0047,Sneha Chopra,Chennai,2024-09-05,Social Media
+C0048,Vihaan Kapoor,Jaipur,2024-04-06,Paid Ads
+C0049,Myra Verma,Mumbai,2025-02-24,Organic Search
+C0050,Priya Malhotra,Mumbai,2025-02-16,Social Media
+C0051,Reyansh Jain,Kolkata,2024-07-15,Social Media
+C0052,Sai Das,Kolkata,2025-03-08,Social Media
+C0053,Myra Jain,Mumbai,2024-03-18,Organic Search
+C0054,Amit Sharma,Mumbai,2025-07-07,Social Media
+C0055,Saanvi Chopra,Kolkata,2024-06-19,Social Media
+C0056,Nikhil Verma,Bengaluru,2025-02-14,Paid Ads
+C0057,Aadhya Das,Kolkata,2024-01-03,Referral
+C0058,Karan Jain,Kolkata,2025-03-09,Social Media
+C0059,Ishaan Reddy,Delhi,2024-07-13,Direct
+C0060,Vivaan Malhotra,Delhi,2025-07-09,Organic Search
+C0061,Ira Bose,Ahmedabad,2025-08-21,Social Media
+C0062,Aanya Gupta,Bengaluru,2024-02-28,Organic Search
+C0063,Aditya Iyer,Chennai,2025-09-01,Organic Search
+C0064,Ayaan Saxena,Lucknow,2025-08-06,Organic Search
+C0065,Aditya Kapoor,Lucknow,2025-09-26,Direct
+C0066,Ananya Das,Hyderabad,2025-06-19,Referral
+C0067,Krishna Nair,Bengaluru,2024-09-01,Referral
+C0068,Ananya Gupta,Delhi,2025-04-13,Paid Ads
+C0069,Riya Mehta,Mumbai,2025-09-28,Direct
+C0070,Aanya Das,Bengaluru,2024-08-06,Referral
+C0071,Nikhil Iyer,Jaipur,2024-03-11,Referral
+C0072,Myra Jain,Pune,2024-06-10,Direct
+C0073,Aarav Jain,Pune,2025-06-25,Organic Search
+C0074,Krishna Mehta,Mumbai,2024-05-17,Direct
+C0075,Krishna Joshi,Lucknow,2024-06-08,Social Media
+C0076,Reyansh Das,Ahmedabad,2024-12-17,Paid Ads
+C0077,Nikhil Verma,Mumbai,2024-09-14,Paid Ads
+C0078,Vivaan Sharma,Jaipur,2024-10-10,Social Media
+C0079,Sai Mishra,Ahmedabad,2024-09-25,Paid Ads
+C0080,Aarav Mehta,Mumbai,2025-07-28,Social Media
+C0081,Vivaan Khan,Lucknow,2025-07-12,Direct
+C0082,Saanvi Singh,Delhi,2024-05-31,Referral
+C0083,Nikhil Verma,Jaipur,2025-01-08,Social Media
+C0084,Neha Mehta,Jaipur,2024-09-12,Direct
+C0085,Kiara Singh,Hyderabad,2025-02-20,Social Media
+C0086,Nikhil Kapoor,Delhi,2024-06-30,Social Media
+C0087,Sneha Kapoor,Hyderabad,2024-12-06,Referral
+C0088,Sneha Mehta,Chennai,2024-06-12,Organic Search
+C0089,Ayaan Reddy,Kolkata,2025-04-26,Referral
+C0090,Amit Iyer,Hyderabad,2024-11-08,Organic Search
+C0091,Aadhya Malhotra,Pune,2024-07-16,Organic Search
+C0092,Diya Bose,Chennai,2024-10-12,Direct
+C0093,Aarav Mehta,Pune,2024-12-05,Social Media
+C0094,Krishna Verma,Mumbai,2025-08-17,Direct
+C0095,Diya Malhotra,Chennai,2025-03-20,Direct
+C0096,Vihaan Nair,Lucknow,2025-06-07,Social Media
+C0097,Vivaan Kapoor,Delhi,2024-09-17,Direct
+C0098,Neha Reddy,Jaipur,2025-07-05,Paid Ads
+C0099,Neha Malhotra,Lucknow,2024-03-12,Referral
+C0100,Priya Joshi,Ahmedabad,2024-05-07,Referral
+C0101,Ananya Nair,Pune,2025-02-22,Direct
+C0102,Reyansh Kapoor,Chennai,2024-05-10,Social Media
+C0103,Riya Joshi,Chennai,2025-09-22,Direct
+C0104,Ishaan Joshi,Hyderabad,2024-01-01,Paid Ads
+C0105,Kiara Malhotra,Kolkata,2025-08-16,Paid Ads
+C0106,Neha Reddy,Ahmedabad,2025-03-28,Paid Ads
+C0107,Neha Gupta,Pune,2024-06-22,Direct
+C0108,Ananya Gupta,Hyderabad,2025-09-26,Referral
+C0109,Sneha Reddy,Bengaluru,2024-08-18,Organic Search
+C0110,Ayaan Chopra,Lucknow,2024-02-17,Organic Search
+C0111,Saanvi Saxena,Hyderabad,2025-04-11,Paid Ads
+C0112,Aadhya Iyer,Bengaluru,2025-05-21,Organic Search
+C0113,Rohan Kapoor,Hyderabad,2024-04-19,Social Media
+C0114,Myra Verma,Ahmedabad,2025-06-14,Social Media
+C0115,Myra Singh,Kolkata,2024-05-04,Direct
+C0116,Kiara Malhotra,Kolkata,2025-07-26,Direct
+C0117,Saanvi Jain,Kolkata,2025-05-31,Social Media
+C0118,Myra Das,Hyderabad,2025-05-01,Referral
+C0119,Ira Iyer,Pune,2025-06-17,Paid Ads
+C0120,Karan Joshi,Hyderabad,2024-03-20,Referral
+C0121,Ananya Jain,Mumbai,2024-12-09,Social Media
+C0122,Ayaan Nair,Bengaluru,2024-06-03,Social Media
+C0123,Saanvi Kapoor,Jaipur,2024-03-06,Direct
+C0124,Saanvi Verma,Hyderabad,2025-04-22,Paid Ads
+C0125,Nikhil Saxena,Delhi,2025-02-02,Direct
+C0126,Ira Sharma,Jaipur,2025-01-24,Referral
+C0127,Pooja Kapoor,Ahmedabad,2025-02-03,Direct
+C0128,Nikhil Iyer,Kolkata,2025-09-09,Social Media
+C0129,Saanvi Chopra,Delhi,2024-10-06,Paid Ads
+C0130,Neha Nair,Bengaluru,2024-12-10,Paid Ads
+C0131,Kiara Jain,Delhi,2024-05-10,Paid Ads
+C0132,Riya Sharma,Mumbai,2025-08-29,Paid Ads
+C0133,Pooja Mishra,Bengaluru,2024-05-18,Organic Search
+C0134,Aadhya Malhotra,Hyderabad,2024-09-23,Paid Ads
+C0135,Ananya Nair,Pune,2024-11-30,Paid Ads
+C0136,Amit Gupta,Kolkata,2024-09-15,Organic Search
+C0137,Vivaan Khan,Hyderabad,2025-07-06,Organic Search
+C0138,Rohan Sharma,Hyderabad,2024-02-11,Social Media
+C0139,Kiara Singh,Hyderabad,2024-01-21,Social Media
+C0140,Neha Mehta,Lucknow,2025-04-29,Social Media
+C0141,Karan Das,Jaipur,2025-04-21,Social Media
+C0142,Kiara Mehta,Bengaluru,2025-09-12,Referral
+C0143,Riya Sharma,Pune,2024-04-20,Direct
+C0144,Aadhya Reddy,Mumbai,2025-01-19,Direct
+C0145,Vihaan Joshi,Lucknow,2024-09-05,Organic Search
+C0146,Sneha Verma,Jaipur,2025-08-02,Direct
+C0147,Neha Khan,Mumbai,2025-03-14,Direct
+C0148,Aarav Kapoor,Kolkata,2024-12-15,Organic Search
+C0149,Diya Mishra,Bengaluru,2025-03-19,Paid Ads
+C0150,Priya Bose,Pune,2024-06-29,Direct
+C0151,Rohan Chopra,Kolkata,2025-07-05,Paid Ads
+C0152,Krishna Malhotra,Hyderabad,2025-08-29,Organic Search
+C0153,Nikhil Mishra,Hyderabad,2024-10-12,Paid Ads
+C0154,Kiara Nair,Jaipur,2025-08-06,Organic Search
+C0155,Pooja Malhotra,Bengaluru,2025-05-21,Paid Ads
+C0156,Diya Das,Jaipur,2024-08-05,Referral
+C0157,Karan Das,Ahmedabad,2025-09-02,Organic Search
+C0158,Reyansh Gupta,Hyderabad,2025-06-13,Paid Ads
+C0159,Pari Iyer,Kolkata,2025-05-15,Paid Ads
+C0160,Sneha Sharma,Mumbai,2025-04-03,Referral
+C0161,Aadhya Iyer,Pune,2024-08-14,Direct
+C0162,Ira Jain,Ahmedabad,2025-01-12,Referral
+C0163,Priya Jain,Jaipur,2025-03-11,Referral
+C0164,Krishna Joshi,Pune,2025-04-09,Social Media
+C0165,Priya Reddy,Jaipur,2024-05-03,Organic Search
+C0166,Rohan Patel,Hyderabad,2025-07-02,Social Media
+C0167,Krishna Saxena,Ahmedabad,2025-05-10,Direct
+C0168,Vihaan Reddy,Pune,2024-10-16,Social Media
+C0169,Sai Joshi,Delhi,2025-01-04,Direct
+C0170,Krishna Verma,Delhi,2024-05-09,Direct
+C0171,Karan Singh,Kolkata,2024-10-26,Organic Search
+C0172,Riya Joshi,Kolkata,2024-01-13,Paid Ads
+C0173,Ananya Patel,Delhi,2025-03-27,Referral
+C0174,Vihaan Gupta,Chennai,2025-05-04,Paid Ads
+C0175,Riya Verma,Bengaluru,2024-03-16,Social Media
+C0176,Ishaan Gupta,Hyderabad,2025-07-30,Organic Search
+C0177,Rohan Kapoor,Lucknow,2025-07-25,Direct
+C0178,Ayaan Bose,Chennai,2025-09-25,Paid Ads
+C0179,Ishaan Saxena,Chennai,2025-03-29,Referral
+C0180,Kiara Verma,Lucknow,2025-08-05,Organic Search
+C0181,Rahul Reddy,Pune,2024-07-31,Organic Search
+C0182,Ayaan Patel,Ahmedabad,2024-06-09,Organic Search
+C0183,Aarav Kapoor,Kolkata,2024-06-09,Direct
+C0184,Ishaan Verma,Hyderabad,2025-04-26,Referral
+C0185,Karan Mishra,Mumbai,2024-10-16,Social Media
+C0186,Sneha Saxena,Hyderabad,2024-09-27,Paid Ads
+C0187,Pari Iyer,Bengaluru,2024-04-27,Referral
+C0188,Aditya Verma,Bengaluru,2024-05-25,Referral
+C0189,Priya Saxena,Pune,2025-09-01,Paid Ads
+C0190,Myra Joshi,Chennai,2024-05-07,Referral
+C0191,Pari Chopra,Kolkata,2025-05-27,Organic Search
+C0192,Vivaan Kapoor,Jaipur,2025-09-04,Direct
+C0193,Aarav Gupta,Hyderabad,2024-09-13,Direct
+C0194,Aarav Das,Lucknow,2025-08-24,Organic Search
+C0195,Ira Bose,Kolkata,2024-06-28,Referral
+C0196,Riya Kapoor,Kolkata,2024-07-04,Organic Search
+C0197,Diya Kapoor,Jaipur,2025-04-26,Referral
+C0198,Pooja Patel,Jaipur,2024-04-17,Paid Ads
+C0199,Ishaan Nair,Ahmedabad,2025-05-22,Organic Search
+C0200,Aditya Malhotra,Pune,2025-04-10,Referral
+C0201,Rohan Nair,Ahmedabad,2024-04-28,Organic Search
+C0202,Myra Kapoor,Delhi,2025-07-09,Social Media
+C0203,Diya Rao,Kolkata,2025-06-14,Paid Ads
+C0204,Reyansh Das,Ahmedabad,2024-02-22,Social Media
+C0205,Myra Chopra,Mumbai,2024-10-21,Organic Search
+C0206,Sneha Iyer,Bengaluru,2025-09-15,Referral
+C0207,Aarav Jain,Chennai,2025-07-18,Organic Search
+C0208,Amit Mehta,Kolkata,2024-08-18,Organic Search
+C0209,Ira Joshi,Ahmedabad,2024-06-06,Referral
+C0210,Amit Chopra,Kolkata,2025-03-01,Social Media
+C0211,Pari Singh,Chennai,2025-04-12,Social Media
+C0212,Aanya Singh,Mumbai,2025-09-05,Referral
+C0213,Ananya Bose,Pune,2025-02-28,Organic Search
+C0214,Priya Joshi,Lucknow,2024-10-16,Direct
+C0215,Pooja Singh,Kolkata,2025-05-16,Direct
+C0216,Diya Malhotra,Ahmedabad,2025-05-10,Direct
+C0217,Myra Malhotra,Hyderabad,2025-01-21,Social Media
+C0218,Aadhya Iyer,Chennai,2025-08-08,Organic Search
+C0219,Priya Chopra,Chennai,2024-11-21,Paid Ads
+C0220,Ira Verma,Bengaluru,2024-06-04,Direct
+C0221,Ananya Mehta,Kolkata,2025-08-27,Organic Search
+C0222,Kavya Mishra,Delhi,2025-06-22,Social Media
+C0223,Pooja Singh,Mumbai,2025-02-23,Paid Ads
+C0224,Ananya Rao,Chennai,2024-09-28,Organic Search
+C0225,Pooja Jain,Chennai,2024-12-02,Referral
+C0226,Pooja Jain,Delhi,2025-05-14,Direct
+C0227,Ayaan Joshi,Hyderabad,2024-03-11,Organic Search
+C0228,Vihaan Mehta,Kolkata,2025-03-20,Social Media
+C0229,Nikhil Sharma,Delhi,2024-11-02,Referral
+C0230,Ishaan Khan,Jaipur,2024-02-27,Paid Ads
+C0231,Ayaan Bose,Chennai,2024-05-29,Direct
+C0232,Sai Patel,Mumbai,2024-07-03,Direct
+C0233,Kiara Iyer,Kolkata,2025-01-26,Direct
+C0234,Ayaan Mishra,Pune,2024-05-26,Paid Ads
+C0235,Neha Sharma,Kolkata,2024-09-18,Referral
+C0236,Sai Gupta,Kolkata,2025-07-13,Referral
+C0237,Ishaan Kapoor,Pune,2025-08-24,Paid Ads
+C0238,Reyansh Nair,Kolkata,2024-11-05,Organic Search
+C0239,Aadhya Saxena,Jaipur,2024-08-30,Direct
+C0240,Karan Joshi,Delhi,2024-10-29,Paid Ads
+C0241,Aarav Saxena,Delhi,2024-10-08,Direct
+C0242,Amit Joshi,Hyderabad,2025-05-23,Direct
+C0243,Ayaan Reddy,Lucknow,2024-12-26,Referral
+C0244,Rahul Mehta,Delhi,2024-05-20,Referral
+C0245,Vivaan Saxena,Jaipur,2025-03-27,Social Media
+C0246,Kavya Joshi,Jaipur,2024-04-02,Paid Ads
+C0247,Reyansh Singh,Ahmedabad,2024-06-28,Referral
+C0248,Aanya Das,Bengaluru,2025-06-27,Referral
+C0249,Sneha Joshi,Jaipur,2025-05-08,Organic Search
+C0250,Aditya Singh,Hyderabad,2025-04-24,Paid Ads
+C0251,Diya Gupta,Chennai,2025-07-24,Organic Search
+C0252,Pari Mehta,Kolkata,2024-09-27,Referral
+C0253,Riya Nair,Jaipur,2024-09-25,Organic Search
+C0254,Ira Sharma,Lucknow,2024-08-27,Direct
+C0255,Kavya Rao,Hyderabad,2024-12-01,Organic Search
+C0256,Kavya Joshi,Chennai,2025-04-20,Organic Search
+C0257,Vivaan Verma,Pune,2024-05-23,Paid Ads
+C0258,Vihaan Iyer,Ahmedabad,2024-04-28,Social Media
+C0259,Myra Khan,Ahmedabad,2025-02-01,Paid Ads
+C0260,Priya Singh,Chennai,2025-08-24,Organic Search
+C0261,Kiara Kapoor,Pune,2025-05-16,Organic Search
+C0262,Reyansh Mishra,Kolkata,2025-01-14,Social Media
+C0263,Vihaan Khan,Ahmedabad,2025-01-06,Referral
+C0264,Aadhya Das,Hyderabad,2024-03-03,Organic Search
+C0265,Aditya Reddy,Lucknow,2025-04-10,Organic Search
+C0266,Sneha Malhotra,Hyderabad,2024-02-21,Social Media
+C0267,Reyansh Gupta,Ahmedabad,2025-08-01,Social Media
+C0268,Reyansh Iyer,Jaipur,2025-08-23,Social Media
+C0269,Aarav Das,Bengaluru,2025-09-02,Social Media
+C0270,Krishna Patel,Mumbai,2025-07-07,Organic Search
+C0271,Aarav Khan,Hyderabad,2024-05-14,Direct
+C0272,Aarav Patel,Pune,2024-11-27,Organic Search
+C0273,Priya Kapoor,Ahmedabad,2024-05-09,Organic Search
+C0274,Ira Mishra,Jaipur,2024-03-06,Direct
+C0275,Vihaan Mishra,Ahmedabad,2025-08-30,Social Media
+C0276,Vivaan Bose,Pune,2025-09-21,Paid Ads
+C0277,Vivaan Chopra,Chennai,2024-02-01,Paid Ads
+C0278,Ira Mishra,Mumbai,2024-04-20,Organic Search
+C0279,Kiara Singh,Mumbai,2024-11-25,Social Media
+C0280,Kiara Saxena,Ahmedabad,2024-10-08,Referral
+C0281,Kiara Bose,Pune,2025-01-25,Paid Ads
+C0282,Kiara Kapoor,Mumbai,2025-06-01,Organic Search
+C0283,Priya Reddy,Chennai,2025-07-18,Paid Ads
+C0284,Saanvi Malhotra,Kolkata,2024-08-21,Paid Ads
+C0285,Priya Mehta,Jaipur,2025-03-01,Paid Ads
+C0286,Neha Das,Jaipur,2024-11-16,Social Media
+C0287,Aditya Gupta,Mumbai,2025-04-30,Organic Search
+C0288,Vihaan Khan,Bengaluru,2025-03-18,Direct
+C0289,Riya Jain,Ahmedabad,2024-03-02,Referral
+C0290,Saanvi Khan,Chennai,2024-05-05,Organic Search
+C0291,Kiara Joshi,Jaipur,2024-10-21,Organic Search
+C0292,Aanya Reddy,Bengaluru,2025-08-14,Paid Ads
+C0293,Pooja Mehta,Jaipur,2024-08-17,Direct
+C0294,Vihaan Das,Lucknow,2025-01-11,Social Media
+C0295,Pooja Jain,Lucknow,2025-03-15,Direct
+C0296,Aarav Rao,Pune,2025-07-24,Organic Search
+C0297,Krishna Joshi,Jaipur,2024-07-03,Referral
+C0298,Sai Singh,Lucknow,2024-01-07,Paid Ads
+C0299,Arjun Sharma,Mumbai,2024-03-12,Direct
+C0300,Aadhya Kapoor,Kolkata,2024-08-08,Referral
+C0301,Diya Joshi,Jaipur,2024-06-10,Direct
+C0302,Aditya Verma,Bengaluru,2025-09-02,Social Media
+C0303,Vivaan Gupta,Pune,2025-09-24,Paid Ads
+C0304,Ira Rao,Kolkata,2025-03-10,Paid Ads
+C0305,Reyansh Bose,Mumbai,2024-10-06,Referral
+C0306,Vihaan Joshi,Lucknow,2025-03-16,Paid Ads
+C0307,Neha Joshi,Delhi,2025-06-23,Social Media
+C0308,Kiara Verma,Delhi,2025-02-08,Social Media
+C0309,Reyansh Singh,Pune,2024-11-04,Referral
+C0310,Vihaan Sharma,Kolkata,2024-12-01,Paid Ads
+C0311,Arjun Nair,Ahmedabad,2024-06-28,Social Media
+C0312,Pari Khan,Mumbai,2025-05-27,Paid Ads
+C0313,Saanvi Sharma,Kolkata,2024-02-13,Organic Search
+C0314,Riya Kapoor,Lucknow,2024-11-16,Paid Ads
+C0315,Ishaan Mehta,Chennai,2025-03-03,Organic Search
+C0316,Sai Rao,Kolkata,2024-11-28,Referral
+C0317,Saanvi Mehta,Hyderabad,2024-03-31,Paid Ads
+C0318,Aadhya Bose,Mumbai,2025-08-26,Paid Ads
+C0319,Priya Malhotra,Hyderabad,2024-11-13,Referral
+C0320,Aditya Bose,Mumbai,2024-06-21,Direct
+C0321,Reyansh Khan,Jaipur,2025-06-06,Social Media
+C0322,Vihaan Singh,Pune,2024-08-29,Social Media
+C0323,Kiara Singh,Mumbai,2024-06-26,Social Media
+C0324,Myra Saxena,Lucknow,2025-05-20,Paid Ads
+C0325,Rahul Rao,Jaipur,2025-08-01,Referral
+C0326,Myra Gupta,Kolkata,2024-06-03,Paid Ads
+C0327,Sneha Das,Lucknow,2024-11-06,Organic Search
+C0328,Aanya Gupta,Pune,2024-12-26,Paid Ads
+C0329,Vivaan Verma,Jaipur,2025-04-07,Referral
+C0330,Rahul Gupta,Lucknow,2024-03-19,Direct
+C0331,Aadhya Mishra,Lucknow,2025-06-03,Direct
+C0332,Myra Saxena,Hyderabad,2024-02-12,Referral
+C0333,Ira Bose,Bengaluru,2025-09-11,Organic Search
+C0334,Vihaan Malhotra,Mumbai,2025-04-06,Direct
+C0335,Vivaan Iyer,Kolkata,2024-06-25,Paid Ads
+C0336,Aanya Rao,Bengaluru,2025-06-20,Referral
+C0337,Kavya Joshi,Chennai,2025-01-16,Paid Ads
+C0338,Neha Rao,Delhi,2024-12-12,Referral
+C0339,Ananya Mehta,Ahmedabad,2024-03-08,Paid Ads
+C0340,Krishna Rao,Bengaluru,2024-10-17,Referral
+C0341,Riya Singh,Jaipur,2024-03-24,Referral
+C0342,Arjun Rao,Mumbai,2025-02-05,Referral
+C0343,Aadhya Malhotra,Bengaluru,2025-07-26,Direct
+C0344,Rahul Kapoor,Ahmedabad,2024-04-05,Referral
+C0345,Diya Joshi,Bengaluru,2024-01-19,Social Media
+C0346,Rohan Chopra,Hyderabad,2024-12-15,Social Media
+C0347,Arjun Gupta,Pune,2024-05-20,Organic Search
+C0348,Rohan Jain,Ahmedabad,2025-06-03,Organic Search
+C0349,Nikhil Rao,Bengaluru,2024-12-10,Direct
+C0350,Arjun Patel,Bengaluru,2025-01-20,Direct
+C0351,Priya Mishra,Delhi,2024-06-18,Paid Ads
+C0352,Neha Iyer,Kolkata,2025-01-08,Direct
+C0353,Rohan Mishra,Hyderabad,2024-10-18,Direct
+C0354,Ishaan Chopra,Hyderabad,2024-09-01,Referral
+C0355,Myra Mishra,Pune,2025-08-07,Paid Ads
+C0356,Aanya Kapoor,Bengaluru,2025-05-29,Social Media
+C0357,Arjun Das,Delhi,2025-09-11,Paid Ads
+C0358,Pari Mehta,Ahmedabad,2025-01-15,Organic Search
+C0359,Aditya Patel,Pune,2024-10-18,Paid Ads
+C0360,Arjun Kapoor,Mumbai,2025-06-09,Social Media
+C0361,Nikhil Khan,Delhi,2025-04-06,Paid Ads
+C0362,Aadhya Bose,Jaipur,2024-02-24,Social Media
+C0363,Aditya Khan,Hyderabad,2025-01-30,Organic Search
+C0364,Kavya Mehta,Jaipur,2024-11-22,Social Media
+C0365,Vivaan Joshi,Kolkata,2024-05-20,Social Media
+C0366,Myra Rao,Delhi,2025-04-25,Organic Search
+C0367,Krishna Reddy,Bengaluru,2024-01-20,Direct
+C0368,Aanya Kapoor,Mumbai,2025-09-15,Referral
+C0369,Ishaan Mehta,Delhi,2024-08-31,Social Media
+C0370,Rahul Rao,Kolkata,2025-03-05,Organic Search
+C0371,Amit Chopra,Lucknow,2024-04-23,Direct
+C0372,Rahul Bose,Lucknow,2024-01-17,Social Media
+C0373,Ishaan Kapoor,Delhi,2024-05-27,Direct
+C0374,Ayaan Saxena,Chennai,2024-12-27,Social Media
+C0375,Aanya Khan,Mumbai,2024-03-28,Direct
+C0376,Aanya Bose,Ahmedabad,2025-07-11,Organic Search
+C0377,Pooja Chopra,Delhi,2025-02-03,Paid Ads
+C0378,Krishna Sharma,Jaipur,2025-01-17,Organic Search
+C0379,Ayaan Mehta,Lucknow,2024-12-19,Referral
+C0380,Vivaan Khan,Ahmedabad,2024-05-16,Referral
+C0381,Amit Mishra,Kolkata,2024-06-28,Social Media
+C0382,Aditya Mishra,Delhi,2024-05-18,Referral
+C0383,Vivaan Reddy,Delhi,2024-07-25,Referral
+C0384,Aanya Nair,Ahmedabad,2024-11-13,Paid Ads
+C0385,Vivaan Reddy,Pune,2024-09-16,Referral
+C0386,Pooja Malhotra,Pune,2024-02-18,Organic Search
+C0387,Saanvi Nair,Kolkata,2025-01-11,Paid Ads
+C0388,Sai Chopra,Kolkata,2024-12-13,Referral
+C0389,Krishna Gupta,Chennai,2025-06-15,Organic Search
+C0390,Kiara Patel,Ahmedabad,2025-03-16,Referral
+C0391,Vihaan Gupta,Jaipur,2024-11-24,Referral
+C0392,Myra Rao,Chennai,2024-11-09,Social Media
+C0393,Diya Mishra,Delhi,2025-03-30,Referral
+C0394,Saanvi Das,Delhi,2025-09-21,Organic Search
+C0395,Diya Bose,Bengaluru,2025-02-19,Organic Search
+C0396,Pooja Rao,Kolkata,2024-05-26,Organic Search
+C0397,Aditya Iyer,Jaipur,2024-05-09,Referral
+C0398,Riya Verma,Lucknow,2025-01-27,Social Media
+C0399,Diya Khan,Kolkata,2025-04-05,Organic Search
+C0400,Arjun Bose,Jaipur,2025-08-10,Paid Ads
+C0401,Rahul Das,Hyderabad,2024-11-17,Organic Search
+C0402,Priya Patel,Kolkata,2024-01-27,Direct
+C0403,Kavya Jain,Mumbai,2025-01-31,Referral
+C0404,Karan Mishra,Hyderabad,2024-09-23,Direct
+C0405,Karan Chopra,Hyderabad,2024-10-19,Organic Search
+C0406,Pooja Gupta,Kolkata,2024-05-18,Social Media
+C0407,Aditya Malhotra,Jaipur,2025-03-31,Organic Search
+C0408,Pari Joshi,Pune,2025-07-17,Social Media
+C0409,Sneha Khan,Ahmedabad,2024-06-27,Social Media
+C0410,Reyansh Singh,Hyderabad,2024-05-04,Paid Ads
+C0411,Diya Jain,Lucknow,2024-01-27,Referral
+C0412,Sneha Jain,Bengaluru,2025-04-23,Direct
+C0413,Aditya Joshi,Chennai,2024-03-29,Paid Ads
+C0414,Saanvi Kapoor,Lucknow,2025-06-22,Organic Search
+C0415,Ananya Gupta,Kolkata,2024-05-08,Paid Ads
+C0416,Diya Singh,Ahmedabad,2025-06-13,Direct
+C0417,Rohan Singh,Chennai,2024-07-05,Direct
+C0418,Amit Mehta,Ahmedabad,2024-02-26,Social Media
+C0419,Sai Patel,Jaipur,2024-11-07,Social Media
+C0420,Aanya Joshi,Mumbai,2024-12-20,Referral
+C0421,Rahul Jain,Pune,2024-07-20,Social Media
+C0422,Ishaan Rao,Ahmedabad,2025-10-02,Organic Search
+C0423,Rahul Patel,Lucknow,2025-05-29,Direct
+C0424,Sai Rao,Lucknow,2024-06-06,Referral
+C0425,Vivaan Sharma,Mumbai,2025-07-31,Organic Search
+C0426,Krishna Reddy,Lucknow,2025-08-13,Paid Ads
+C0427,Rahul Sharma,Kolkata,2025-09-24,Direct
+C0428,Rahul Joshi,Kolkata,2024-10-23,Social Media
+C0429,Ishaan Mishra,Mumbai,2025-02-19,Organic Search
+C0430,Myra Kapoor,Kolkata,2024-06-10,Paid Ads
+C0431,Ananya Rao,Bengaluru,2024-07-27,Referral
+C0432,Priya Khan,Chennai,2024-11-22,Social Media
+C0433,Aanya Jain,Mumbai,2025-01-14,Referral
+C0434,Myra Mehta,Pune,2024-09-04,Paid Ads
+C0435,Arjun Mehta,Delhi,2024-09-10,Referral
+C0436,Pooja Rao,Chennai,2025-01-28,Social Media
+C0437,Amit Malhotra,Lucknow,2024-06-12,Referral
+C0438,Rohan Patel,Kolkata,2024-07-13,Direct
+C0439,Ira Joshi,Kolkata,2025-04-23,Organic Search
+C0440,Aadhya Bose,Kolkata,2024-04-02,Social Media
+C0441,Riya Khan,Delhi,2024-08-08,Organic Search
+C0442,Ira Rao,Kolkata,2024-10-15,Referral
+C0443,Aarav Mehta,Chennai,2025-07-03,Social Media
+C0444,Priya Khan,Chennai,2024-09-27,Referral
+C0445,Aadhya Verma,Lucknow,2024-02-16,Direct
+C0446,Diya Jain,Pune,2024-07-18,Organic Search
+C0447,Aanya Mishra,Ahmedabad,2025-01-30,Referral
+C0448,Neha Rao,Mumbai,2025-09-30,Social Media
+C0449,Aadhya Khan,Jaipur,2024-04-09,Direct
+C0450,Rohan Singh,Hyderabad,2025-01-09,Direct
+C0451,Aadhya Bose,Delhi,2025-06-05,Organic Search
+C0452,Arjun Malhotra,Kolkata,2024-02-09,Direct
+C0453,Arjun Rao,Ahmedabad,2025-04-12,Social Media
+C0454,Kavya Rao,Jaipur,2024-12-01,Social Media
+C0455,Kiara Joshi,Lucknow,2025-02-06,Referral
+C0456,Amit Bose,Ahmedabad,2025-06-03,Paid Ads
+C0457,Ishaan Chopra,Delhi,2025-07-30,Referral
+C0458,Neha Mehta,Chennai,2024-12-05,Direct
+C0459,Sneha Sharma,Lucknow,2024-11-11,Paid Ads
+C0460,Rahul Saxena,Lucknow,2024-09-28,Social Media
+C0461,Riya Chopra,Bengaluru,2024-02-22,Direct
+C0462,Rohan Nair,Bengaluru,2025-09-26,Social Media
+C0463,Riya Mehta,Hyderabad,2024-02-02,Organic Search
+C0464,Ananya Kapoor,Bengaluru,2025-03-27,Paid Ads
+C0465,Saanvi Bose,Lucknow,2024-07-27,Paid Ads
+C0466,Karan Singh,Ahmedabad,2024-03-04,Social Media
+C0467,Ananya Chopra,Ahmedabad,2025-07-28,Paid Ads
+C0468,Sai Mishra,Ahmedabad,2024-11-17,Referral
+C0469,Diya Das,Lucknow,2025-07-13,Paid Ads
+C0470,Ayaan Das,Ahmedabad,2024-07-15,Referral
+C0471,Ishaan Joshi,Hyderabad,2024-08-18,Paid Ads
+C0472,Ira Khan,Ahmedabad,2024-11-20,Referral
+C0473,Vihaan Saxena,Ahmedabad,2024-10-21,Paid Ads
+C0474,Amit Khan,Bengaluru,2025-02-08,Referral
+C0475,Ishaan Gupta,Jaipur,2024-02-13,Paid Ads
+C0476,Priya Chopra,Hyderabad,2024-09-19,Social Media
+C0477,Krishna Jain,Pune,2025-07-05,Social Media
+C0478,Kiara Saxena,Hyderabad,2024-04-21,Social Media
+C0479,Neha Bose,Hyderabad,2024-02-21,Social Media
+C0480,Vihaan Kapoor,Jaipur,2024-02-23,Paid Ads
+C0481,Neha Singh,Delhi,2024-04-12,Direct
+C0482,Saanvi Chopra,Kolkata,2024-06-10,Social Media
+C0483,Ananya Joshi,Delhi,2024-10-21,Organic Search
+C0484,Ayaan Jain,Delhi,2025-08-10,Social Media
+C0485,Nikhil Patel,Delhi,2025-03-03,Paid Ads
+C0486,Sai Joshi,Delhi,2025-05-22,Organic Search
+C0487,Riya Rao,Mumbai,2024-11-01,Referral
+C0488,Myra Jain,Ahmedabad,2024-10-18,Paid Ads
+C0489,Pooja Bose,Kolkata,2024-05-17,Referral
+C0490,Sneha Mehta,Jaipur,2024-07-16,Social Media
+C0491,Rahul Das,Bengaluru,2025-04-14,Organic Search
+C0492,Sneha Joshi,Lucknow,2024-12-11,Social Media
+C0493,Kiara Nair,Chennai,2024-06-28,Direct
+C0494,Aditya Nair,Mumbai,2024-12-01,Social Media
+C0495,Ira Malhotra,Hyderabad,2024-05-23,Organic Search
+C0496,Aadhya Iyer,Kolkata,2024-09-24,Referral
+C0497,Ishaan Saxena,Lucknow,2024-12-03,Organic Search
+C0498,Rahul Khan,Hyderabad,2024-09-24,Organic Search
+C0499,Myra Joshi,Bengaluru,2024-05-01,Paid Ads
+C0500,Kavya Joshi,Mumbai,2025-05-29,Referral
+C0501,Kiara Iyer,Hyderabad,2025-01-11,Social Media
+C0502,Arjun Mishra,Lucknow,2025-05-04,Referral
+C0503,Karan Jain,Kolkata,2025-03-01,Direct
+C0504,Rohan Iyer,Lucknow,2024-08-11,Organic Search
+C0505,Myra Bose,Jaipur,2025-06-22,Organic Search
+C0506,Vihaan Verma,Ahmedabad,2025-07-31,Direct
+C0507,Riya Jain,Bengaluru,2024-07-26,Social Media
+C0508,Pooja Bose,Kolkata,2024-12-01,Organic Search
+C0509,Karan Saxena,Kolkata,2024-07-29,Organic Search
+C0510,Myra Verma,Kolkata,2025-06-06,Social Media
+C0511,Saanvi Mishra,Lucknow,2025-06-09,Organic Search
+C0512,Myra Joshi,Delhi,2025-07-26,Paid Ads
+C0513,Amit Sharma,Hyderabad,2024-09-17,Direct
+C0514,Vivaan Kapoor,Jaipur,2024-03-15,Organic Search
+C0515,Vivaan Gupta,Kolkata,2025-07-08,Organic Search
+C0516,Saanvi Patel,Bengaluru,2024-10-20,Paid Ads
+C0517,Nikhil Nair,Kolkata,2025-01-18,Paid Ads
+C0518,Aditya Jain,Bengaluru,2025-01-19,Referral
+C0519,Sai Jain,Chennai,2024-05-01,Direct
+C0520,Priya Iyer,Delhi,2024-05-10,Organic Search
+C0521,Myra Jain,Chennai,2024-11-01,Direct
+C0522,Amit Iyer,Hyderabad,2025-01-23,Paid Ads
+C0523,Arjun Das,Hyderabad,2024-12-20,Organic Search
+C0524,Sneha Kapoor,Lucknow,2024-02-02,Organic Search
+C0525,Reyansh Gupta,Mumbai,2024-09-03,Direct
+C0526,Myra Rao,Delhi,2024-02-04,Social Media
+C0527,Aadhya Mishra,Hyderabad,2024-02-15,Direct
+C0528,Rohan Verma,Bengaluru,2024-08-10,Direct
+C0529,Ayaan Saxena,Jaipur,2024-10-23,Direct
+C0530,Rohan Malhotra,Hyderabad,2025-09-04,Referral
+C0531,Neha Bose,Hyderabad,2024-05-26,Paid Ads
+C0532,Krishna Verma,Ahmedabad,2024-11-03,Direct
+C0533,Rahul Kapoor,Ahmedabad,2024-06-28,Paid Ads
+C0534,Diya Nair,Ahmedabad,2024-02-18,Referral
+C0535,Saanvi Singh,Pune,2025-03-02,Paid Ads
+C0536,Rohan Jain,Kolkata,2024-07-07,Social Media
+C0537,Ishaan Singh,Kolkata,2024-08-18,Organic Search
+C0538,Saanvi Kapoor,Ahmedabad,2025-07-29,Direct
+C0539,Aadhya Iyer,Pune,2024-05-17,Social Media
+C0540,Rahul Gupta,Kolkata,2024-12-04,Referral
+C0541,Pari Reddy,Delhi,2024-04-04,Referral
+C0542,Neha Rao,Lucknow,2025-01-21,Organic Search
+C0543,Reyansh Saxena,Ahmedabad,2024-03-15,Social Media
+C0544,Reyansh Malhotra,Pune,2025-05-05,Organic Search
+C0545,Kavya Reddy,Mumbai,2024-08-04,Paid Ads
+C0546,Karan Rao,Hyderabad,2024-09-05,Paid Ads
+C0547,Pari Malhotra,Pune,2024-09-02,Paid Ads
+C0548,Pari Khan,Pune,2025-04-22,Referral
+C0549,Aanya Chopra,Kolkata,2025-01-03,Organic Search
+C0550,Rohan Malhotra,Hyderabad,2025-04-25,Referral
+C0551,Saanvi Verma,Lucknow,2024-11-16,Social Media
+C0552,Aarav Das,Ahmedabad,2024-05-29,Direct
+C0553,Priya Kapoor,Pune,2025-08-16,Social Media
+C0554,Ananya Iyer,Chennai,2024-07-19,Direct
+C0555,Ira Jain,Jaipur,2024-09-08,Referral
+C0556,Priya Chopra,Kolkata,2025-05-15,Social Media
+C0557,Sai Singh,Ahmedabad,2024-12-26,Paid Ads
+C0558,Kavya Jain,Delhi,2024-07-07,Direct
+C0559,Amit Gupta,Delhi,2024-02-04,Organic Search
+C0560,Arjun Iyer,Mumbai,2025-02-26,Social Media
+C0561,Reyansh Bose,Kolkata,2024-01-10,Referral
+C0562,Kiara Rao,Kolkata,2024-03-02,Paid Ads
+C0563,Aarav Jain,Ahmedabad,2024-01-17,Paid Ads
+C0564,Aarav Bose,Pune,2024-01-13,Direct
+C0565,Aarav Bose,Chennai,2024-10-20,Social Media
+C0566,Kavya Mehta,Ahmedabad,2024-04-19,Social Media
+C0567,Reyansh Rao,Ahmedabad,2024-09-03,Referral
+C0568,Krishna Nair,Mumbai,2024-12-28,Referral
+C0569,Myra Saxena,Hyderabad,2025-02-19,Social Media
+C0570,Neha Gupta,Delhi,2024-11-03,Organic Search
+C0571,Aadhya Nair,Ahmedabad,2025-02-19,Paid Ads
+C0572,Rahul Sharma,Bengaluru,2024-02-27,Organic Search
+C0573,Pooja Kapoor,Jaipur,2025-05-26,Direct
+C0574,Nikhil Bose,Delhi,2024-04-07,Social Media
+C0575,Nikhil Saxena,Kolkata,2024-08-04,Referral
+C0576,Kavya Gupta,Pune,2024-02-17,Direct
+C0577,Neha Verma,Bengaluru,2025-07-31,Referral
+C0578,Reyansh Saxena,Bengaluru,2024-01-17,Paid Ads
+C0579,Ishaan Patel,Lucknow,2024-03-19,Social Media
+C0580,Amit Nair,Ahmedabad,2025-08-03,Referral
+C0581,Rohan Singh,Mumbai,2025-01-28,Direct
+C0582,Vivaan Mehta,Chennai,2024-12-20,Social Media
+C0583,Ananya Rao,Lucknow,2024-03-18,Direct
+C0584,Rohan Malhotra,Delhi,2025-02-10,Referral
+C0585,Ira Iyer,Jaipur,2025-04-06,Direct
+C0586,Saanvi Patel,Lucknow,2025-01-19,Paid Ads
+C0587,Rohan Rao,Pune,2024-03-28,Social Media
+C0588,Aditya Das,Bengaluru,2024-03-16,Paid Ads
+C0589,Priya Nair,Jaipur,2024-06-06,Referral
+C0590,Aditya Sharma,Pune,2024-04-19,Paid Ads
+C0591,Rohan Das,Mumbai,2025-01-03,Social Media
+C0592,Sai Kapoor,Kolkata,2024-03-30,Direct
+C0593,Aanya Kapoor,Mumbai,2025-07-22,Organic Search
+C0594,Diya Jain,Mumbai,2024-04-01,Direct
+C0595,Sneha Malhotra,Chennai,2025-09-04,Organic Search
+C0596,Saanvi Nair,Mumbai,2024-10-25,Direct
+C0597,Riya Bose,Bengaluru,2024-09-05,Paid Ads
+C0598,Arjun Das,Pune,2024-06-22,Referral
+C0599,Arjun Gupta,Bengaluru,2025-05-19,Paid Ads
+C0600,Saanvi Joshi,Kolkata,2024-10-09,Organic Search
